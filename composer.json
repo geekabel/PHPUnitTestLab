@@ -1,0 +1,17 @@
+{
+    "name": "godwin/practise-test",
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Godwin\\PractiseTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "koffigodwin96",
+            "email": "koffigodwin96@gmail.com"
+        }
+    ]
+}
